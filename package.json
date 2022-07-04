@@ -1,6 +1,6 @@
 {
-  "name": "mini-cache",
-  "version": "0.1.0",
+  "name": "@noway/mini-cache",
+  "version": "1.0.0",
   "description": "A custom decorator that can use within your nestjs app to provide in-memory cache",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
     "jest-mock-extended": "^2.0.6",
     "reflect-metadata": "^0.1.13",
     "release-it": "^15.1.0",
+    "rxjs": "^7.1.0",
     "ts-jest": "^28.0.5",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.4"
